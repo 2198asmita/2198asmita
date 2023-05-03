@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2198asmita" alt="2198asmita" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m working in Tata Consultancy Services as **JAVA DEVELOPER**
 
 - 📫 How to reach me **asmitabisht999@gmail.com**
 
